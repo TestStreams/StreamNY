@@ -4,4 +4,6 @@ http://daddylive.watch/stream/stream-759.php
 #EXTM3U
 #EXTINF:-1 tvg-id="YES_NETWORK" tvg-name="YES Network" tvg-logo="https://ibb.co/NTtGt3h",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-
+#EXTM3U
+#EXTINF:-1 tvg-id="FOX_5_NY" tvg-name="Fox 5 NY" tvg-logo="https://ibb.co/J2tKh1Q",Fox 5 NY
+https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
