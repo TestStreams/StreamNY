@@ -1,1 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SNY" tvg-name="SNY" tvg-logo="https://ibb.co/CQ7Vhjn",SNY
+http://daddylive.watch/stream/stream-759.php
+#EXTM3U
+#EXTINF:-1 tvg-id="YES_NETWORK" tvg-name="YES Network" tvg-logo="https://ibb.co/NTtGt3h",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
