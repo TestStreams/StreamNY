@@ -13,3 +13,6 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://ibb.co/f8YZ8Ck",ESPN
 https://thetvapp.to/tv/espn-live-stream/
+#EXTM3U
+#EXTINF:-1 tvg-id="Big_Ten_Network" tvg-name="Big Ten Network" tvg-logo="https://example.com/big-ten-logo.png",Big Ten Network
+https://xyzdddd.mizhls.ru/lb/premium397/index.m3u8
