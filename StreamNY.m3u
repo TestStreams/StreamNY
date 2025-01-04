@@ -10,3 +10,6 @@ https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="CBS_2_NY" tvg-name="CBS 2 NY" tvg-logo="https://ibb.co/sbjNdJC",CBS 2 NY
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://ibb.co/f8YZ8Ck",ESPN
+https://thetvapp.to/tv/espn-live-stream/
